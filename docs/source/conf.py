@@ -53,9 +53,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Pyanimelist'
-copyright = u'2017, Byron Vanstien'
-author = u'Byron Vanstien'
+project = 'Pyanimelist'
+copyright = '2017, Byron Vanstien'
+author = 'Byron Vanstien'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

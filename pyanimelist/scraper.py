@@ -1,4 +1,4 @@
-from util import fetch_url
+from .util import fetch_url
 
 
 class Scraper(object):
